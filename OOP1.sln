@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{BDF7A6D0-0AB7-4C4D-A20F-9613A54BCBB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{15701D37-CBE7-4E70-9045-182DF220D81B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{15701D37-CBE7-4E70-9045-182DF220D81B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{A432980E-C8B6-4F02-8969-E205F4537B21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{15701D37-CBE7-4E70-9045-182DF220D81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15701D37-CBE7-4E70-9045-182DF220D81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15701D37-CBE7-4E70-9045-182DF220D81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A432980E-C8B6-4F02-8969-E205F4537B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A432980E-C8B6-4F02-8969-E205F4537B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A432980E-C8B6-4F02-8969-E205F4537B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A432980E-C8B6-4F02-8969-E205F4537B21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
